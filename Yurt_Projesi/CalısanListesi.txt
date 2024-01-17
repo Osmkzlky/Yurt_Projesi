@@ -1,0 +1,9 @@
+Mehmet;Ünal;Boyacı;(0543) 234 - 42 - 34
+Abdullah;Kara;Elektrikci;(0543) 439 - 20 - 92
+Metin;Sivri;Marangoz;(0532) 490 - 39 - 32
+Hüseyin;Göz;Bahcivan;(0532) 093 - 72 - 89
+Hasan;Kumral;Tesisatcı;(0531) 251 - 27 - 12
+Gürbüz;Koçan;Elektrikçi;(0524) 342 - 34 - 02
+Hamza;Akman;Tesisatcı;(0543) 234 - 23 - 42
+Ramazan;Yıldız;Elektrikci;(0543) 453 - 43 - 53
+Tarık;Çal;Elektrilçi;(0545) 253 - 56 - 23

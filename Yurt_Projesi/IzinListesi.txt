@@ -1,0 +1,5 @@
+Osman;Kızılkaya;Akraba Ziyareti;22/12/2023;22/12/2023;(0543) 234 - 52 - 34;Esenyurt
+Mazlum;Kızılkaya;Ev Ziyareti;23/12/2023;30/12/2023;(0544) 323 - 24 - 23;Konya
+Tunahan;Kızılkaya;Arkadaş ziyareti;01/01/2024;06/01/2024;(0546) 272 - 37 - 23;Bursa
+Emirhan;Gören;Akraba ziyareti;03/01/2024;08/01/2024;(0534) 536 - 76 - 57;Konya
+Osman;Kızılkaya;Akraba ziyareti;06/01/2024;10/01/2024;(0445) 654 - 64 - 56;Bağcılar

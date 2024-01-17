@@ -1,0 +1,7 @@
+Suçuklu Yumurta,Çikolata,Çilek Reçeli,Zeytin,Çay
+Poğaça,Fıstık Ezmesi,Vişne Receli,Zeytin,Çay
+Börek,Çilek Reçeli,Vişne Receli,Peynir,Çay
+Sade Yumurta,Çikolata,Peynir,Zeytin,Çay
+Simit,Fıstık Ezmezi,Peynir,Zeytin,Çay
+Haşlanmış Yumurta,Vişne Receli,Peynir,Zeytin,Çay
+Tost,Çilek Reçeli,Çikolata,Peynir,Çay

@@ -1,0 +1,6 @@
+521 no'lu odada petek arızası var.;Alperen Şimşir
+526 no'lu odada petek arızası var.;Yusuf Kerem Çolak
+İnternet hızlı değil.;Tunahan Kızılkaya
+Elektrik Yok;Mazlum Kızılkaya
+Su yok;Mazlum Kızılkaya
+Elektrik yok;Tunahan Kızılkaya

@@ -1,0 +1,8 @@
+Alperen;Şimşir;Arel Üniversitesi;Bilgisayar Mühendisi;(0533) 453 - 45 - 23;01/01/2003;alperen123;123
+Yusuf Kerem;Çolak;Arel Üniversitesi;Bilgisayar mühendisliği;(0543) 093 - 45 - 32;10/01/2003;yusuf123;123
+Osman;Kızılkaya;Arel Üniversitesi;Bilgisayar Mühendisliği;(0553) 634 - 53 - 23;28/07/2004;osman123;123
+Ramazan;Akar;Yıldız Teknik;Endüstri Mühendisi;(0532) 492 - 38 - 42;01/01/2002;ramazan123;123
+Selehattin;Ölmez;Polislik Yüksek Okulu;Polislik;(0542) 321 - 23 - 23;01/01/2004;selehattin123;123
+Mazlum;Kızılkaya;Necmettin Erbakan Üniversitesi;Tıp;(0523) 323 - 42 - 34;01/01/1996;mazlum123;123
+Tunahan;Kızılkaya;Yalova Üniversitesi;Hemşirelik;(0538) 324 - 23 - 23;10/10/2001;tunahan123;123
+Emirhan;Gören;Arel;Bilgisayar;(0545) 565 - 76 - 88;01/01/2001;emirhan123;123
