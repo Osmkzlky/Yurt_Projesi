@@ -29,6 +29,7 @@ Kullanıcı dostu arayüzü ve sade veri yapısıyla hem yöneticiler hem de ö�
 
 ## 🧑‍💻 Teknik Detaylar
 
+
 - **Geliştirme Dili:** Java  
 - **Veri Yapısı:** Dosya tabanlı (.txt) veri yönetimi  
 - **Çalışma Ortamı:** Eclipse veya benzeri Java IDE'leri  
