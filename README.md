@@ -38,4 +38,6 @@ Kullanıcı dostu arayüzü ve sade veri yapısıyla hem yöneticiler hem de ö�
 
 ## 🎥 Video
 🎬 [YouTube: Tanıtım Videosu İzle ](https://youtu.be/VQJYWWvLMLg?si=jldPRFkNvUQBJ3Mg)
+![yurt](https://github.com/user-attachments/assets/8ac4cdca-ae90-4e26-8d9f-e311700efaba)
+
 
